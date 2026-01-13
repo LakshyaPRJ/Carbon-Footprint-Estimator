@@ -6,7 +6,7 @@ A machine learning-powered web application that estimates an individual’s week
 The project aims to increase awareness of personal environmental impact and demonstrate the application of ML models in sustainability-focused analytics.
 
 Live Demo
-🔗 App URL: [https://co2footprintestimator.streamlit.app(https://co2footprintestimator.streamlit.app/)
+🔗 App URL: https://co2footprintestimator.streamlit.app/
 
 How It Works
 User enters weekly lifestyle data via an interactive UI
