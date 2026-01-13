@@ -5,3 +5,4 @@ NumPy
 Matplotlib
 Seaborn
 Joblib
+streamlit
