@@ -4,4 +4,5 @@ NumPy
 Matplotlib
 Seaborn
 Joblib
-streamlit
+streamlit>=1.32.0
+altair>=5.0.0
